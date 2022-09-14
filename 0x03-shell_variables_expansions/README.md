@@ -3,3 +3,4 @@ Shell Variables and Expansion Project
 1-hello_you: prints hello current user
 2-path: appends /action to $PATH
 3-paths: counts number of directories in $PATH
+5-local_variables: prints local variables
