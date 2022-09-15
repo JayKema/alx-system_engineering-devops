@@ -7,3 +7,4 @@ Shell Variables and Expansion Project
 6-create_local_variable: creates Best:School var:value pair
 7-create_global_variable: create global BEST:School name:value pair
 9-divide_and_rule: divides POWER by DIVIDE
+10-love_exponent_breath: raises BREATH to the power of LOVE
