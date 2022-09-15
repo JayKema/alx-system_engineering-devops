@@ -5,3 +5,4 @@ Shell Variables and Expansion Project
 3-paths: counts number of directories in $PATH
 5-local_variables: prints local variables
 6-create_local_variable: creates Best:School var:value pair
+7-create_global_variable: create global BEST:School name:value pair
