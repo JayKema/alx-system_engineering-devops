@@ -10,3 +10,4 @@ Shell Variables and Expansion Project
 10-love_exponent_breath: raises BREATH to the power of LOVE
 11-binary_to_decimal: converts binary number to decimals
 100-decimal_to_hexadecimal: converts decimal to hexadecimal
+8-true_knowledge: adds 128 to env variable TRUEKNOWLEDGE
