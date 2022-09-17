@@ -11,3 +11,4 @@ Shell Variables and Expansion Project
 11-binary_to_decimal: converts binary number to decimals
 100-decimal_to_hexadecimal: converts decimal to hexadecimal
 8-true_knowledge: adds 128 to env variable TRUEKNOWLEDGE
+101-rot13: encode and decode words using rot13
