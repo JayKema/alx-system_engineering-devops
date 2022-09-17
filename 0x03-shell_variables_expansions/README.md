@@ -12,3 +12,4 @@ Shell Variables and Expansion Project
 100-decimal_to_hexadecimal: converts decimal to hexadecimal
 8-true_knowledge: adds 128 to env variable TRUEKNOWLEDGE
 101-rot13: encode and decode words using rot13
+102-odd: prints everyother line in a file starting form the first line
